@@ -1,3 +1,3 @@
-module github.com/Rican7/retry
+module github.com/CodyDWJones/retry
 
 go 1.14

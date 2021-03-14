@@ -9,10 +9,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/Rican7/retry"
-	"github.com/Rican7/retry/backoff"
-	"github.com/Rican7/retry/jitter"
-	"github.com/Rican7/retry/strategy"
+	"github.com/CodyDWJones/retry"
+	"github.com/CodyDWJones/retry/backoff"
+	"github.com/CodyDWJones/retry/jitter"
+	"github.com/CodyDWJones/retry/strategy"
 )
 
 func Example() {

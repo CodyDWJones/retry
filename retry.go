@@ -8,7 +8,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/Rican7/retry/strategy"
+	"github.com/CodyDWJones/retry/strategy"
 )
 
 // Action defines a callable function that package retry can handle.

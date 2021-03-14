@@ -6,8 +6,8 @@ package strategy
 import (
 	"time"
 
-	"github.com/Rican7/retry/backoff"
-	"github.com/Rican7/retry/jitter"
+	"github.com/CodyDWJones/retry/backoff"
+	"github.com/CodyDWJones/retry/jitter"
 )
 
 // Strategy defines a function that Retry calls before every successive attempt
